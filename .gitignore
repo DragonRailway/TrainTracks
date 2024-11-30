@@ -1,0 +1,8 @@
+# Ignore the files in root directory, for internal testing only
+
+/*.stl
+/*.3mf
+/*.f3z
+/*.f3d
+/*.STL
+/*.3MF
