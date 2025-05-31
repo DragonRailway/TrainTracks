@@ -1,0 +1,6 @@
+Name,Unit,Expression,Value,Comments,Favorite
+Radius,mm,500 mm,500.00,,true
+Degrees,deg,15 °,15.00,,true
+Length,mm,2 * PI * Radius * Degrees / 360 °,130.90,,false
+SleeperCount,,( round(Length / 15.00 mm) ),9,,false
+SleeperSpacing,deg,Degrees / SleeperCount,1.67,,false

@@ -1,0 +1,4 @@
+Name,Unit,Expression,Value,Comments,Favorite
+Length,mm,100 mm,100.00,,true
+SleeperCount,,( round(Length / 15.00 mm) ),7,,false
+SleeperSpacing,mm,Length / ( round(Length / 15.00 mm) ),14.286,,false

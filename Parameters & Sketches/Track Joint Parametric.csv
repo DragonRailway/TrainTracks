@@ -1,0 +1,5 @@
+Name,Unit,Expression,Value,Comments,Favorite
+Gauge,mm,22.5 mm,22.50,,false
+SleeperThickness,mm,2 mm,2.00,,false
+Tollerance,mm,0.1 mm,0.10,,false
+SleeperSpcing,mm,Gauge / 1.5,15.00,,true
